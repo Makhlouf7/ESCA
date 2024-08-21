@@ -91,6 +91,7 @@ footer ul {
   justify-content: center;
   gap: 10px;
   text-align: center;
+  padding: 0;
 }
 
 .footerChild2 img {
