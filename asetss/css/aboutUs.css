@@ -116,6 +116,7 @@ footer ul {
 .footerChild3 ul {
   display: flex;
   font-size: small;
+  padding: 0;
   gap: 10px;
 }
 
