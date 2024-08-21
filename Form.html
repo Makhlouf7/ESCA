@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form</title>
+    <link rel="stylesheet" href="./asetss/css/Form_Style.css" />
+  </head>
+
+  <body>
+    <div class="bg_img">
+      <div class="container">
+        <div class="title">تسجيل</div>
+        <form action="https://api.web3forms.com/submit" method="POST">
+          <input
+            type="hidden"
+            name="access_key"
+            value="05455e10-07a2-4d62-834a-76287fbb89d0"
+          />
+
+          <div class="user-details">
+            <div class="input-box">
+              <span class="details" dir="rtl">الاسم الكامل</span>
+
+              <input
+                type="text"
+                id="name"
+                name="name"
+                placeholder="أدخل أسمك"
+                dir="rtl"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">بريد إلكتروني</span>
+              <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="أدخل بريدك الإلكتروني"
+                dir="rtl"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">رقم التليفون</span>
+              <input
+                type="text"
+                id="phone"
+                name="phone"
+                placeholder="أدخل رقمك"
+                dir="rtl"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">مدينة</span>
+              <input
+                type="text"
+                dir="rtl"
+                id="city"
+                name="city"
+                placeholder="أدخل اسم مدينتك"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">العنوان</span>
+              <input
+                type="text"
+                id="adress"
+                name="adress"
+                placeholder="أدخل عنوانك"
+                dir="rtl"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">الاسم الوظيفي </span>
+              <input
+                type="text"
+                id="Jop-Titel"
+                dir="rtl"
+                name="Jop-Titel"
+                placeholder="أدخل اسم المسمى الوظيفي الخاص بك"
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">نوع الطعام المهدور</span>
+              <input
+                type="text"
+                dir="rtl"
+                id="typefood"
+                name="typefood"
+                placeholder="مطبوخ/غير مطبوخ "
+              />
+            </div>
+            <div class="input-box">
+              <span class="details" dir="rtl">ما النفايات الغذائية</span>
+              <input
+                type="text"
+                dir="rtl"
+                id="foodweast"
+                name="foodweast"
+                placeholder="الكربوهيدرات / مخلفات الفاكهة / مخلفات الأسماك"
+              />
+            </div>
+
+            <div class="input-box">
+              <span class="details" dir="rtl">كم في الأسبوع؟</span>
+              <input
+                type="text"
+                dir="rtl"
+                id="perweek"
+                name="perweek"
+                placeholder="كجم/طن"
+              />
+            </div>
+          </div>
+
+          <div class="button">
+            <input type="submit" value="تسجيل" />
+          </div>
+        </form>
+      </div>
+    </div>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="./asetss/JS/Form.js"></script>
+  </body>
+</html>
