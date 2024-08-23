@@ -1,4 +1,5 @@
 # ESCA
+<<<<<<< HEAD
 
 Student activity project which we participate with it in Enactus NC 2024
 
@@ -47,3 +48,8 @@ Users should understand:
 
 - This project was developed by Enactus Assiut University IT-Committee.
 - I'm glad that I contributed to this project.
+=======
+Student activity project which we participate with it in Enactus NC 2024.<br>
+This project was developed by Enactus Assiut University IT-Committee.<br>
+I'm glad that I contributed to this project.
+>>>>>>> 895ec4492caa34b95527b3cce1a86b117477ceb4
