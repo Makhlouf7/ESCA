@@ -1,5 +1,4 @@
 # ESCA
-<<<<<<< HEAD
 
 Student activity project which we participate with it in Enactus NC 2024
 
@@ -11,8 +10,6 @@ Student activity project which we participate with it in Enactus NC 2024
 - [Links](#links)
 - [Built with](#built-with)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -27,7 +24,7 @@ Users should understand:
 - The impact of food waste on enviroment
 - How can they donate the food for us so we can recycle it
 
-### Screenshot
+### Screenshots
 
 ![home page](./project-overview/home-page.png)
 ![food wasting](./project-overview/food-wasting-page.png)
@@ -48,8 +45,3 @@ Users should understand:
 
 - This project was developed by Enactus Assiut University IT-Committee.
 - I'm glad that I contributed to this project.
-=======
-Student activity project which we participate with it in Enactus NC 2024.<br>
-This project was developed by Enactus Assiut University IT-Committee.<br>
-I'm glad that I contributed to this project.
->>>>>>> 895ec4492caa34b95527b3cce1a86b117477ceb4
